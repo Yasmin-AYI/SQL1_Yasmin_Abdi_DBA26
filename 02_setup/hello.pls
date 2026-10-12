@@ -1,4 +1,3 @@
-sql
 -- displays the output from PL/SQL
 SET SERVEROUTPUT ON;
 
